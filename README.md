@@ -1,2 +1,3 @@
 # estrutura-dados-js
 Estudos de estruturas de dados  javascript
+> Todos os exercícios e estudos deste repositórios foram feitos com base no livro [Estruturas de Dados e Algoritmos com JavaScript](https://www.amazon.com.br/Estruturas-Dados-Algoritmos-Com-Javascript/dp/8575226932/ref=asc_df_8575226932/?tag=googleshopp00-20&linkCode=df0&hvadid=379765802639&hvpos=&hvnetw=g&hvrand=16563644472103858050&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100172&hvtargid=pla-811121404201&psc=1&mcid=a9ced9adf9a1306791ae220776a5d6a1)
